@@ -5,6 +5,6 @@
 layout: default
 ---
 <div class="flex-container">
-  <img class="img-circle-avatar" src="/images/estrada.jpg">
-  <div class="bio">I am a PhD Student in Harvard's Atmospheric Modeling Research Group. I am passionate about the outdoors, running, and dogs. My research interests include using technology to better understand earth systems. My current focus is creating open-source, user-friendly software to improve emission estimates of Methane using inverse methods.</div>  
+  <img class="img-circle-avatar" src="/images/Evan_box_core.jpg">
+  <div class="bio">I am a PhD Student in Harvard's Biogeochemistry of Glob Contaminants group, advised by Dr. Elsie Sunderland. I am interested in understanding mercury cycling using novel techniques, such as isotope mixing. Running, woodworking, and cooking are some of my favorite daily activities, and I like to take hiking, biking and camping trips whenever I can.</div>  
 </div>

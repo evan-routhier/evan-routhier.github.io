@@ -8,80 +8,43 @@ permalink: /cv/
 <a href="/pdfs/Public_Resume.pdf">PDF Version</a>
 </div>
 ### Education
-**Williams College**\
-*Bachelor of Arts in Geoscience and Computer Science*\
-Varsity Cross Country and Track\
-Dean's List 2019
+**University of Wisconsin - Madison**\
+*Bachelor of Science - Biochemistry*\
+*Bachelor of Science - Environmental SCiences*
 
-**Middlesex School**\
+**Homestead High School**\
 Science Department Prize in Environmental Science
 
 ### Relevant Experience
 
-**Scientific Programmer**, GEOS-Chem Support Team, Harvard University\
-Supervised by Dr. Daniel Jacob
+**Physical Scientist (2020-2022)**, USGS Mercury Research Lab\
 
-* Supporting postdocs and graduate students on research projects requiring technical expertise
+* Conducted daily laboratory analysis of samples for mercury
 
-* Further developing and improving the capability of running GEOS-Chem and GCHP on the cloud
+* Collected field samples for in house and contracted projects
  
-* Developing structural updates to the model’s analysis tools (GCPy) and chemical solver (KPP)
+* Assisted with research and development related to measurement techniques for mercury
 
-* Providing user support to a vibrant community of users via github issues
+* Contributed to publishing study findings
 
-**Software Engineer**, Nevo Technologies
+**Student Intern**, USGS Mercury Research Lab\
 
-* Worked as part of a high velocity agile development team on a wide
-variety of projects
+* Laboratory and field assistant
 
-* Gained experience in web/mobile app development and AWS ecosystem
+**Research Assistant**, Karasov Lab - UW - Madison\
+Supervised by Dr. William Karasov and Gavin Dehnert
 
-* Quickly adapted to new technologies, stacks, and development
-environments
+* Studied the effects of the herbicide 2,4-Dichlorophenoxy-acetic acid on freshwater fish species
 
-* Implemented ETL processes for high volume data processing project
+* Maintained animal welfare and conducted biochemical assays
 
-**Research Intern**, Incorporated Research Institutions for Seismology\
-Supervised by Dr. Kasey Aderhold
+* Conducted a study investigating potential recovery of fish endocrine systems after exposure to 2,4-D
 
-* Conducted novel seismic research studying Alaskan Sea Ice modulations of
-seismic noise
 
-* Performed statistical analyses of seismic data in Matlab and Python
+**Assistant **, University of Wisconsin - Madison Arboretum\
 
-* Presented research at American Geophysical Union conference 2019
+* Maintained arboretum grounds and helped visitors enjoy the nature
 
-* Wrote scripts that pull data in real time directly from the IRIS data center API
-
-**Research Assistant**, Cohen Lab - Williams College\
-Supervised by Dr. Phoebe Cohen
-
-* Studied the microfossil and mercury content of Devonian Shales to
-investigate the End-Devonian mass extinction
-
-* Prepared samples for analysis and recorded detailed notes of results and
-procedures
-
-* Presented research at the Geological Society of America's 2018
-Conference in Indianapolis
-
-* Wrote Python scripts to analyze datasets from the Macrostrat and
-Paleobio Database API
-
-**Crew**, Appalachian Mountain Club Cold River Camp - Chatham, NH
-
-* Lived and worked with colleagues in a team-oriented, fast-paced
-environment
-
-* Maintained all buildings and grounds; Served on waitstaff and ensured
-guest satisfaction
-
-**Intern**, Weston Geophysical -- Lexington, MA
-
-* Analyzed global seismic activity using company software in a Linux
-environment
-
-* Setup and Prepared equipment for offsite seismic studies
 
 ### Technical Skills
 **Programming**\
