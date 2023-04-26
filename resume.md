@@ -8,7 +8,13 @@ permalink: /cv/
 <a href="/pdfs/Public_Resume.pdf">PDF Version</a>
 </div>
 ### Education
-**University of Wisconsin - Madison**\
+**Harvard University (2022-present)**\
+PhD student in Environmental Science and Engineering, advised by\
+Dr. Elsie Sunderland. Research focus is on the cycling of contaminants\
+in the environment, with a current focus on mercury.
+
+
+**University of Wisconsin - Madison (2016-2020)**\
 *Bachelor of Science - Biochemistry*\
 *Bachelor of Science - Environmental SCiences*
 
@@ -41,83 +47,57 @@ Supervised by Dr. William Karasov and Gavin Dehnert
 * Conducted a study investigating potential recovery of fish endocrine systems after exposure to 2,4-D
 
 
-**Assistant **, University of Wisconsin - Madison Arboretum\
+**Assistant ranger**, University of Wisconsin - Madison Arboretum\
 
 * Maintained arboretum grounds and helped visitors enjoy the nature
 
 
 ### Technical Skills
-**Programming**\
-Python, Java, TypeScript, C/C\#/C++, Matlab, SQL/PSQL, Docker, AWS,
-Terraform, Linux, Object Oriented Programming, Unit Testing, Debugging,
-Version Control (Git), Bitbucket Pipelines, SQL/PSQL
+**Programming languages**\
+R, matlab
 
-**Frameworks**\
-Angular, .NET Core, React Native, Xamarin Forms
+**Lab skills and unstruments**\
+Total mercury analysis via Nippon, Tekkran and Brooks Rand instruments
+methylmercury analysis via distillation and ICPMS
+Mercury isotope analysis via MC-ICPMS
+Pre-concentration methods using purge and trap, and anion exchange column methods
+
 
 **Software**\
-ArcGIS, InDesign, Microsoft Suite
+ArcGIS, Microsoft Suite
 
 ### Service and Leadership
 
-**Purple Bike Coalition President, Treasurer, Mechanic**
+**Boy Scouts of America - Eagle scout**
 
-Manage shop budget, train and hire mechanics, organize work schedules
 
-**Teaching Assistant - Geoscience 101**, Williams College
+**UW - Madison Track Club board member**
 
-Assist 30+ students in labs and answer questions related to lectures and
-course materials
-
-Review and grade student labs
-
-**Track Captain**, Williams College
-
-Organize team events, promote positive culture, communicate with coaches
+Organize team events and plan the season's race schedule
 
 ### Projects and Research
 
-**Acushnet Artworks**\
-Worked as part of a small development team to implement a logo
-management web application for the Acushnet Holdings Corporation. This
-project utilized Angular for the front end application and .NET Core for
-the backend. This project was deployed and run with an entirely
-serverless footprint using AWS ECS to run a dockerized version of the
-application. I was heavily involved in standing up the necessary devOps
-infrastructure and coding both the client-side and server-side
-applications
+**Malagasy dietary mercury exposure**\
+Working with Dr. Elsie Sunderland and Dr. Chris Golden, we are investigating/
+the dietary sources of mercury for two populations of people who display distinct/
+dietary patterns. Dietary sources of mercury are determined using a toxicokinetic/
+model and isotope mixing model. Affects of diet on mercury processing are/
+interpreted using microbiome data. This work is in progress.
 
-**IHM Insights**\
-Developed a high volume, cloud-based medical data ingest and egress
-system for the Institute for Health Metrics. I worked as one the sole
-contributors handling the ingestion and transformation of EHR data from
-over 50 hospitals into our canonical persistence store on the cloud.
-This project involved leveraging a wide variety of AWS services
-including AWS Glue (Pyspark), Lambda, Step Functions, RDS Aurora, ECS,
-etc.
+**Mercury in the Rio Negro, Brazil**
+Working with Dr. Sunderland and Dr. Scot Martin, work to investigate the sources/
+of mercury to the Rio Negro will begin in September 2023. This work is done in/
+collaboration with members of Amazonas State University in Manaus, Brazil./
+This work is in progress
 
-**J&J JLabs Navigator**\
-Developed a web application for Johnson & Johnson's incubator program
-(JLABS). Worked on the client-side application to replace their legacy
-Drupal application with a new Angular version that provides richer
-interactions and visualizations.
+**Mercury contamination to Gruber's Grove Bay, Lake Wisconsin**
+Determining the source of legacy contamination in Gruber's Grove Bay, which is/
+proximal to a retired ammunition plant operated by the United States Army. The/
+sediments in the bay continue to contain elevated levels of mercury even after/
+multiple remediation attempts by the army. Mercury source determination was/
+done by interpreting total mercury concentrations and isotope ratios of the sediments/
+within the bay.
 
-**Seismic Data Tools**\
-Programmed tools in Matlab and Python to fetch and analyze seismic noise
-from IRIS data center
 
-**Paleontology Scripting Analysis**\
-Wrote Python scripts to interact and analyze data from Macrostrat and
-the Paleobio Database API's
 
-**Roguelike Game Development**\
-Implemented and developed JavaScript rogue-like video game
 
-*Characterizing Sea Ice Modulations of Seismic Noise using the Alaskan
-Transportable Array*\
-Publication in Submission;
-<https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/507588>
-
-*Mercury and Microfossil Trends During End-Devonian Extinction Events*\
-Publication pending;
-<https://www.researchgate.net/scientific-contributions/Lucas-Estrada-2150491930>
