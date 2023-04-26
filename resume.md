@@ -9,14 +9,14 @@ permalink: /cv/
 </div>
 ### Education
 **Harvard University (2022-present)**\
-PhD student in Environmental Science and Engineering, advised by\
+PhD student in Environmental Science and Engineering advised by\
 Dr. Elsie Sunderland. Research focus is on the cycling of contaminants\
 in the environment, with a current focus on mercury.
 
 
-**University of Wisconsin - Madison (2016-2020)**\
-*Bachelor of Science - Biochemistry*\
-*Bachelor of Science - Environmental SCiences*
+**University of Wisconsin - Madison**\
+*Bachelor of Science - Biochemistry, 2020*\
+*Bachelor of Science - Environmental Sciences, 2020*
 
 **Homestead High School**\
 Science Department Prize in Environmental Science
@@ -33,7 +33,7 @@ Science Department Prize in Environmental Science
 
 * Contributed to publishing study findings
 
-**Student Intern**, USGS Mercury Research Lab\
+**Student Intern**, USGS Mercury Research Lab
 
 * Laboratory and field assistant
 
@@ -54,7 +54,7 @@ Supervised by Dr. William Karasov and Gavin Dehnert
 
 ### Technical Skills
 **Programming languages**\
-R, matlab
+R, Matlab
 
 **Lab skills and unstruments**\
 Total mercury analysis via Nippon, Tekkran and Brooks Rand instruments
@@ -72,7 +72,6 @@ ArcGIS, Microsoft Suite
 
 
 **UW - Madison Track Club board member**
-
 Organize team events and plan the season's race schedule
 
 ### Projects and Research
@@ -84,13 +83,13 @@ dietary patterns. Dietary sources of mercury are determined using a toxicokineti
 model and isotope mixing model. Affects of diet on mercury processing are/
 interpreted using microbiome data. This work is in progress.
 
-**Mercury in the Rio Negro, Brazil**
+**Mercury in the Rio Negro, Brazil**\
 Working with Dr. Sunderland and Dr. Scot Martin, work to investigate the sources/
 of mercury to the Rio Negro will begin in September 2023. This work is done in/
 collaboration with members of Amazonas State University in Manaus, Brazil./
 This work is in progress
 
-**Mercury contamination to Gruber's Grove Bay, Lake Wisconsin**
+**Mercury contamination to Gruber's Grove Bay, Lake Wisconsin**\
 Determining the source of legacy contamination in Gruber's Grove Bay, which is/
 proximal to a retired ammunition plant operated by the United States Army. The/
 sediments in the bay continue to contain elevated levels of mercury even after/
