@@ -5,7 +5,8 @@ permalink: /cv/
 ---
 ------------------------------------------------------------------------
 <div style="text-align: right;">
-<a href="/pdfs/Public_Resume.pdf">PDF Version</a>
+<a href="/pdfs/Public_Resume_short.pdf">PDF Short Version</a>
+<a href="/pdfs/Public_Resume_long.pdf">PDF Long Version</a>
 </div>
 ### Education
 **Harvard University (2022-present)**\
