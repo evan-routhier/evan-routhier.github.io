@@ -5,5 +5,6 @@ permalink: /photos/
 ---
 <div class="flex-container">
   <img class="img-circle-avatar" src="/images/Evan_box_core.jpg">
+  <img class="img-circle-avatar" src="/images/boat_overhead_RioNegro.jpg">
   
   
