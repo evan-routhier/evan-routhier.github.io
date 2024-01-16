@@ -3,6 +3,30 @@ layout: default
 title: Photos
 permalink: /photos/
 ---
+
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
 <div class="flex-container">
   <h2>RV Lake Guardian</h2>
   <div class="column">
@@ -20,7 +44,7 @@ permalink: /photos/
     <img class="img-circle-avatar" src="/images/boat_overhead_RioNegro.jpg">
     <h3>Research vessel cruising the Rio Negro</h3>
     <img class="img-circle-avatar" src="/images/braided_sand_RioNegro.jpg">
-    <h3>Research vessel moored at a sandbar on the Rio Negro</h3>
+    <h3>Boats beached at a sandbar on the Rio Negro</h3>
     <img class="img-circle-avatar" src="/images/Evan_Francesca.jpg">
     <h3>Evan with the chef cutting fish for samples</h3>
   </div>
