@@ -27,7 +27,7 @@ permalink: /photos/
 </head>
 <body>
 
-<div class="flex-container">
+<div class="row">
   <h2>RV Lake Guardian</h2>
   <div class="column">
     <img class="img-circle-avatar" src="/images/Evan_box_core.jpg" style="width:100%">
@@ -38,7 +38,7 @@ permalink: /photos/
     <h3>Sunset on Lake Superior aboard the RV Lake Guardian</h3>
   </div>
 </div>
-<div class="flex-container">
+<div class="row">
   <h2>Rio Negro 2023 - Photo Credit Bruno Kelly</h2>
   <div class="column">
     <img class="img-circle-avatar" src="/images/boat_overhead_RioNegro.jpg" style="width:100%">
