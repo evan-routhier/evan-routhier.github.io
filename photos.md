@@ -3,7 +3,6 @@ layout: default
 title: Photos
 permalink: /photos/
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <style>
