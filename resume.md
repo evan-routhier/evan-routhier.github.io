@@ -55,7 +55,7 @@ Supervised by Dr. William Karasov and Gavin Dehnert
 
 ### Technical Skills
 **Programming languages**\
-R, Matlab
+R (beginner), python (beginner)
 
 **Lab skills and unstruments**\
 Total mercury analysis via Nippon, Tekkran and Brooks Rand instruments
@@ -71,33 +71,18 @@ ArcGIS, Microsoft Suite
 
 **Boy Scouts of America - Eagle scout**
 
-
-**UW - Madison Track Club board member**
+**UW - Madison Track Club Meet Coordinator**
 Organize team events and plan the season's race schedule
 
-### Projects and Research
+### Current Projects and Research
 
 **Malagasy dietary mercury exposure**\
 Working with Dr. Elsie Sunderland and Dr. Chris Golden, we are investigating/
 the dietary sources of mercury for two populations of people who display distinct/
-dietary patterns. Dietary sources of mercury are determined using a toxicokinetic/
-model and isotope mixing model. Affects of diet on mercury processing are/
-interpreted using microbiome data. This work is in progress.
+dietary patterns. Dietary sources  and toxicokinetics of mercury are determined via dietary surveys,/
+exposure models and isotope mixing models. We are further investigating the impact gut microbiome/
+has on Hg toxicokinetics.
 
 **Mercury in the Rio Negro, Brazil**\
-Working with Dr. Sunderland and Dr. Scot Martin, work to investigate the sources/
-of mercury to the Rio Negro will begin in September 2023. This work is done in/
-collaboration with members of Amazonas State University in Manaus, Brazil./
-This work is in progress
-
-**Mercury contamination to Gruber's Grove Bay, Lake Wisconsin**\
-Determining the source of legacy contamination in Gruber's Grove Bay, which is/
-proximal to a retired ammunition plant operated by the United States Army. The/
-sediments in the bay continue to contain elevated levels of mercury even after/
-multiple remediation attempts by the army. Mercury source determination was/
-done by interpreting total mercury concentrations and isotope ratios of the sediments/
-within the bay.
-
-
-
-
+With Dr. Sunderland, Dr. Scot Martin, and Dr. Sergio Duvoisin Junior, we am investigating the sources/
+of mercury to Amazonian rivers and pathways for methylation within these rivers. 
